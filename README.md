@@ -1,4 +1,4 @@
-# Pametna-ultrazvu-na-kapa
+# Pametna-ultrazvučna-kapa
 
 Projekat je rađen za potrebe takmičenja "FELIX 2020" koje se održalo
 na Prirodno-matematičkom fakultetu u Kragujevcu. Detaljnija specifikacija 
