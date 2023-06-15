@@ -1,6 +1,3 @@
-# Pametna-ultrazvučna-kapa
+# Smart Ultrasound Cap
 
-Projekat je rađen za potrebe takmičenja "FELIX 2020" koje se održalo
-na Prirodno-matematičkom fakultetu u Kragujevcu. Detaljnija specifikacija 
-se nalazi u okviru prezentacije u prilogu. Na takmičenju u konkurenciji 
-od 20 ekipa osvojena je prva nagrada.
+The project was developed for the "FELIX 2020" competition held at the Faculty of Science and Mathematics in Kragujevac. A more detailed specification can be found in the presentation attached. Among 20 competing teams, the project won the first prize.
